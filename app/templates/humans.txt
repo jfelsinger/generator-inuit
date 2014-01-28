@@ -1,0 +1,9 @@
+/* TEAM */
+
+/* THANKS */
+
+/* SITE */
+    Last updated: <%= moment().format('YYYY/MM/DD') %>
+    Language:
+    Doctype:
+    IDE:

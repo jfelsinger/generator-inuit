@@ -1,0 +1,9 @@
+{
+    "name": "<%= _.slugify(appname) %>",
+    "version": "0.0.0",
+    "dependencies": {
+        "inuit": "git@github.com:csswizardry/inuit.css.git",
+        "inuit-template": "git@github.com:csswizardry/inuit.css-web-template.git"
+    }
+}
+
